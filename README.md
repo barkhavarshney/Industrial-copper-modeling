@@ -11,9 +11,6 @@ Enhance your proficiency in data analysis and machine learning with our "Industr
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Key Technologies and Skills
 
