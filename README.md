@@ -31,6 +31,19 @@ To run this project, install the required packages:
 pip install numpy pandas scikit-learn xgboost matplotlib seaborn streamlit
 ```
 
+## Usage
+
+To use this project, follow these steps:
+
+1. **Clone the repository:** `git clone https://github.com/gopiashokan/Industrial-Copper-Modeling.git`
+
+2. **Install the required packages:** `pip install -r requirements.txt`
+
+3. **Run the Streamlit app:** `streamlit run app.py`
+
+4. **Access the app in your browser:** Once the Streamlit app is running, access it in your browser at [http://localhost:8501](http://localhost:8501).
+
+
 ## Features
 
 1. **Data Preprocessing**
