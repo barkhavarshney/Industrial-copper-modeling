@@ -63,3 +63,7 @@ pip install numpy pandas scikit-learn xgboost matplotlib seaborn streamlit
     - Model Persistence: Save trained regression models for future use.
 
 
+##Conclusion
+
+The Industrial Copper Modeling project aims to predict the selling price and status in the industrial copper market using machine learning techniques.
+
