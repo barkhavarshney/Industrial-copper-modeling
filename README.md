@@ -31,7 +31,7 @@ To run this project, install the required packages:
 pip install numpy pandas scikit-learn xgboost matplotlib seaborn streamlit
 ```
 
-### Features
+## Features
 
 1. **Data Preprocessing**
     - Data Understanding: Gain insights into the dataset's variables and distributions.
