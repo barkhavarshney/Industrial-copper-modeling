@@ -29,4 +29,37 @@ To run this project, install the required packages:
 
 ```bash
 pip install numpy pandas scikit-learn xgboost matplotlib seaborn streamlit
+```
+
+### Features
+
+1. **Data Preprocessing**
+    - Data Understanding: Gain insights into the dataset's variables and distributions.
+    - Handling Null Values: Address missing values in the dataset.
+    - Encoding and Data Type Conversion: Prepare categorical features for modeling.
+    - Skewness Correction: Mitigate skewness in continuous variables.
+    - Outlier Handling: Identify and handle outliers in the data.
+    - Wrong Date Handling: Correct inconsistencies in date values.
+
+2. **Exploratory Data Analysis (EDA) and Feature Engineering**
+    - Skewness Visualization: Visualize and correct skewness in continuous variables.
+    - Outlier Visualization: Identify and rectify outliers using visualizations.
+    - Feature Improvement: Enhance dataset quality and efficiency through feature creation.
+
+3. **Classification**
+    - Success and Failure Classification: Classify data points based on success and failure.
+    - Handling Data Imbalance: Address imbalance in the dataset for classification tasks.
+    - Algorithm Assessment: Evaluate various algorithms for classification tasks.
+    - Algorithm Selection: Choose the best algorithm for classification based on performance.
+    - Hyperparameter Tuning: Fine-tune algorithms for optimal performance.
+    - Model Accuracy and Metrics: Evaluate classification model performance using various metrics.
+    - Model Persistence: Save trained classification models for future use.
+
+4. **Regression**
+    - Algorithm Assessment: Evaluate various algorithms for regression tasks.
+    - Algorithm Selection: Choose the best algorithm for regression based on performance.
+    - Hyperparameter Tuning: Fine-tune algorithms for optimal performance.
+    - Model Accuracy and Metrics: Evaluate regression model performance using various metrics.
+    - Model Persistence: Save trained regression models for future use.
+
 
