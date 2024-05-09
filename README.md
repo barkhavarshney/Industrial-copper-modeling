@@ -35,7 +35,7 @@ pip install numpy pandas scikit-learn xgboost matplotlib seaborn streamlit
 
 To use this project, follow these steps:
 
-1. **Clone the repository:** `git clone https://github.com/gopiashokan/Industrial-Copper-Modeling.git`
+1. **Clone the repository:** `git clone https://github.com/barkhavarshney/Industrial-copper-modeling`
 
 2. **Install the required packages:** `pip install -r requirements.txt`
 
